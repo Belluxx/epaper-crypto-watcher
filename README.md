@@ -3,7 +3,6 @@ Python example on how to show real time prices of cryptocurrencies and stocks us
 ## Hardware needed
 - Raspberry Pi
 - Waveshare ePaper Display
-- `tmux` package (for background execution, optional)
 ## Setup
 ### Setup the hardware
 1) Connect the ePaper Display to the Raspberry
