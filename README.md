@@ -1,5 +1,5 @@
 # ePaper crypto watcher
-Python example on how to show real time prices of cryptocurrencies and stocks using a Raspberry Pi and an ePaper Display\
+Python example on how to show real time prices of cryptocurrencies and stocks using a Raspberry Pi and an ePaper Display.\
 If this project was useful to you, please leave a ⭐ :)
 ## Hardware needed
 - Raspberry Pi
