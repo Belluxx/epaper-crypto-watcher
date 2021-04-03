@@ -38,7 +38,7 @@ def main():
             update_prices()
             clean()
             update()
-            time.sleep(1800)
+            time.sleep(300)
     except IOError as e:
         print("Error:", e)
 
