@@ -24,3 +24,5 @@ If this project was useful to you, please leave a ⭐ :)
 13) Run the script with `sudo python3 cryptowatcher.py`
 ## Libraries included
 I used the official libraries from Waveshare. You can find them here: https://github.com/waveshare/e-Paper
+## Photo of the project
+![Project photo](https://github.com/Belluxx/epaper-crypto-watcher/raw/main/preview.jpg)
