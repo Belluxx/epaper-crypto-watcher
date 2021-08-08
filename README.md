@@ -4,7 +4,20 @@ If this project was useful to you, please leave a ⭐ :)
 ## Hardware needed
 - Raspberry Pi
 - Waveshare ePaper Display
-## Setup
+
+# Setup for Raspberry OS Desktop
+### Setup the hardware
+1) Connect the ePaper Display to the Raspberry
+2) Enable the SPI interface: `sudo raspi-config` --> Interface Options --> SPI --> yes
+### Download and tweak the code
+3) Clone/Download the repository
+4) In `cryptowatcher.py` replace `epd2in7` with your display's model ("2in7" means 2.7 inches, adjust for the size of your display)
+5) Adjust the coordinates in the code to match display's size
+### Run the code!
+12) \[Optional\] Install tmux and use the command `tmux`
+13) Run the script with `sudo python3 cryptowatcher.py`
+
+# Setup for Raspberry OS Headless
 ### Setup the hardware
 1) Connect the ePaper Display to the Raspberry
 2) Enable the SPI interface: `sudo raspi-config` --> Interface Options --> SPI --> yes
