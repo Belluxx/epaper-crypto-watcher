@@ -27,14 +27,15 @@ If this project was useful to you, please leave a ⭐ :)
 5) Adjust the coordinates in the code to match display's size
 ### Install dependecies
 6) Install libopenjp2-7 with the command `sudo apt install libopenjp2-7`
-7) Install libtiff5 with the command `sudo apt install libtiff5`
-8) Install pip for python3 with the command `sudo apt install python3-pip`
-9) Install the package spidev using `sudo pip3 install spidev`
-10) Install the package RPi.GPIO using `sudo pip3 install RPi.GPIO`
-11) Install the package PIL using `sudo pip3 install Pillow`
+7) Install libatlas with the command `sudo apt install libatlas-base-dev`
+8) Install libtiff5 with the command `sudo apt install libtiff5`
+9) Install pip for python3 with the command `sudo apt install python3-pip`
+10) Install the package spidev using `sudo pip3 install spidev`
+11) Install the package RPi.GPIO using `sudo pip3 install RPi.GPIO`
+12) Install the package PIL using `sudo pip3 install Pillow`
 ### Run the code!
-12) \[Optional\] Install tmux and use the command `tmux`
-13) Run the script with `sudo python3 cryptowatcher.py`
+13) \[Optional\] Install tmux and use the command `tmux`
+14) Run the script with `sudo python3 cryptowatcher.py`
 ## Libraries included
 I used the official libraries from Waveshare. You can find them here: https://github.com/waveshare/e-Paper
 ## Photo of the project
